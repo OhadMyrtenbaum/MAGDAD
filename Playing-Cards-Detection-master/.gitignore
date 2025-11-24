@@ -1,6 +1,0 @@
-venv/
-data/
-runs/
-
-cli.log
-*.pt
